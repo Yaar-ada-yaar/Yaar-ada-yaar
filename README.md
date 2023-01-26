@@ -7,7 +7,7 @@
 #### **Reach me anytime!**
 ## 🔗 Links
 
-[![discord](https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/)
+[![discord](https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/135635102993612800)
 [![instagram](https://img.shields.io/badge/instagram-940f1e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elisha._.smile)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Elisha_Smile)
 
